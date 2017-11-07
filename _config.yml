@@ -1,2 +1,3 @@
-	name: Smuk3c
-	markdown: kramdown
+name: Leopold Spanovic • Entrepreneur & web developer
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
