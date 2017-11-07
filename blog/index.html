@@ -9,7 +9,7 @@ title: Smuk3c's Blog
     {% for post in site.posts %}
       <li>
         <a href="{{ post.url }}" title="{{ post.title }}">
-            {{ post.title }}
+            <strong>{{ post.title }}</strong>
         </a>
         <small>{{ post.date | date_to_string }}</small>
       </li>
