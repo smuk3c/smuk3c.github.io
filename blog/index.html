@@ -1,12 +1,18 @@
 ---
 layout: default
-title: Hank Quinlan's Blog
+title: Smuk3c's Blog
 ---
 <h1>{{ page.title }}</h1>
+<p>I am dedicating blog to the coding part of my life. <em>There is also one more for business and motivation you can find <a href="https://www.tinystories.io/" target="_blank">here</a>.</em> In the end, this page is hosted on GitHub and one of my goals is to give back to the community, and I have to admit as a developer with 8+ years of experience I didn't give much back. This is going to change.</p>
+<hr/>
 <ul class="posts">
-
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-  {% endfor %}
-    
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}" title="{{ post.title }}">
+            {{ post.title }}
+        </a>
+        <small>{{ post.date | date_to_string }}</small>
+      </li>
+    {% endfor %}
 </ul>
+<!-- 2014-04-30-hank-quinlan-site-launched.md -->
