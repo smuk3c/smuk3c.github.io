@@ -5,6 +5,11 @@ title: Routine of Leopold Spanovic
 
 # Daily routine beta
 
+**EDIT: 26.11.2017 -** I tried to control all my day in one strike. It's not possible at moment. So I am going back to basics to build my condidence again. I am going to add one thing in ritual each day. And try to keep it going. I am starting with most important one.
+
+* **20:00 - 21:00** -- Organization *Every day* 
+
+<strike>
 **Improvements based on results...*
 
 * **10:00 - 4:00** -- Sleeping time *I wish I woudn't need sleep*
@@ -18,7 +23,7 @@ title: Routine of Leopold Spanovic
 * **16:30 - 20:30** -- Deep Working block
 * **20:30 - 21:00** -- Organization
 * **21:30 - 22:00** -- Reading in the bed
-
+</strike>
 ---
 
 ## Facts
