@@ -13,7 +13,7 @@ title: Goals of Leopold Spanovic
 ### 1. Stay organized for 200 days till the end of year
 The year 2016/17 was outstanding. You accomplished a lot. The main reason was your schedule, planning, reflecting, etc. Anyway, I know it's hard to keep up with everything. If you manage to organized 100 days of last year can you imagine what you can accomplish if you do 200? Let's see. 
 
-**Progress:** 0/200 days organized
+**Progress:** 2/200 days organized
 
 ### 2. Move to New Zealand
 Yeah. I know it's not going to be easy. But you can do it. Forget about fears. We both know that you will have a life time of regrets if you don't do this. 
@@ -53,7 +53,7 @@ Uf, man... where will you find a time for everything? Just joking. You can make 
 ### 7. Put 10% of any income in "sock"
 And then you sit on it. No bitcoin, nothing. Just sit on it for a year. And later you will decide what to do with it. 
 
-**Progress:** 0.0 $ saved
+**Progress:** $450 saved
 
 ### 8. Get into 6-pack shape
 I know it's cliche. But if you're working out you can have some goal. This way you will be able to measure results, and it's gonna be easier.
@@ -63,15 +63,15 @@ I know it's cliche. But if you're working out you can have some goal. This way y
 ### 9. Create 7-figure e-commerce  
 Time is perfect. You learned from prev business; now it's time to connect the dots and make something bigger. You already know how to make it 6-figure why not increase it to 7.
 
-**Progress:** 0$/1.000.000$ 
+**Progress:** 0$/1.000.001$ 
 
 ### 10. Make yourself an expert of marketing and e-commerce
 You are thinking about this for a long, long time. You know - someday you have to start, and this "someday" can be today. Why not?
 
 **Progress:** 0/100% feeling like expert
 1. Master skill of writing (online course) **Not done**
-2. Write 200 articles **0/200**
-3. Start practicing your camera skills (use that Lama app) **0/200 answered questions**
+2. Write 200 articles **1/200**
+3. Start practicing your camera skills (use that Lama app) **9/200 answered questions**
 4. Write a 100 pages book **0/100 pages finished**
 
  
